@@ -15,53 +15,6 @@ Building Scalable Data Platforms, Intelligent Automation Systems & AI-Powered Ap
 
 <td width="30%" valign="top">
 
-## 👨‍💻 Profile
-
-**Data Engineer & AI Engineer**
-
-📍 India
-
-🔗 Portfolio  
-https://mrravi07.vercel.app
-
-💼 LinkedIn  
-https://www.linkedin.com/in/ravi-kumar-singh-99777a2a6
-
-💻 GitHub  
-https://github.com/mrravi07
-
----
-
-## 📬 Connect
-
-📧 ravisinghh07@gmail.com
-
-💼 LinkedIn
-
-💻 GitHub
-
-🌐 Portfolio
-
----
-
-## ⭐ Highlights
-
-### 🤖 AI Agent Builder
-Building intelligent agents and automation systems.
-
-### ⚙️ Data Engineering
-Designing scalable data pipelines and modern data platforms.
-
-### 🚀 Automation Focused
-Creating systems that reduce manual work and improve efficiency.
-
-### 🎯 Impact Driven
-Turning data into actionable insights and business value.
-
-</td>
-
-<td width="70%" valign="top">
-
 ## 📋 Profile
 
 Specializing in data engineering, AI systems, and intelligent automation.
