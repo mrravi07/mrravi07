@@ -2,9 +2,9 @@
 
 <h1>Ravi Kumar Singh</h1>
 
-<p><b>Data Engineer · AI Engineer · Intelligent Automation</b></p>
+<p><b>Data Engineer &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Intelligent Automation</b></p>
 
-<p>Building data pipelines, AI agents, and automation systems that work at scale.</p>
+<p>Building scalable data pipelines, AI agent systems, and intelligent automation infrastructure.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/ravi-kumar-singh-99777a2a6">
@@ -30,13 +30,25 @@
 
 ## About
 
-Data Engineer and AI Engineer focused on building reliable, scalable data systems and intelligent automation workflows. I work across the full data stack — pipeline architecture, distributed processing, orchestration, and applied AI integration.
+Data Engineer and AI Engineer with hands-on experience in designing and deploying **ETL/ELT pipelines**, **distributed data processing systems**, and **LLM-powered automation workflows**. Proficient in the modern data engineering stack — Python, Apache Spark, PySpark, Apache Airflow, Databricks, and SQL — with applied experience in AI agent development using LangChain and LangGraph.
 
-My work centers on three areas: designing ETL/ELT systems that handle real-world data at scale, building AI agents that automate complex multi-step workflows, and creating infrastructure that is observable, maintainable, and production-ready from day one.
+I build systems that are production-ready from day one: observable, fault-tolerant, and designed for scale. My focus spans **data pipeline architecture**, **workflow orchestration**, **real-time monitoring**, and **intelligent automation** — delivering infrastructure that data teams can rely on.
 
 ---
 
-## Stack
+## Core Competencies
+
+```
+Data Pipeline Development       ETL / ELT Design & Implementation     Distributed Data Processing
+Workflow Orchestration          Data Warehouse Architecture            Data Modeling & Schema Design
+AI Agent Development            LLM Integration & Prompt Engineering   Intelligent Automation
+Real-Time Monitoring            Anomaly Detection (ML-based)           Data Quality Management
+Batch & Stream Processing       Apache Spark Optimization              Cloud Data Infrastructure
+```
+
+---
+
+## Technology Stack
 
 <table>
 <tr>
@@ -83,40 +95,43 @@ My work centers on three areas: designing ETL/ELT systems that handle real-world
 
 ---
 
-## What I Build
+## Areas of Expertise
 
-| Domain | Focus |
+| Domain | Scope |
 |:---|:---|
-| **Data Engineering** | Batch & stream pipelines, ETL/ELT design, data modeling, warehouse architecture |
-| **AI Engineering** | LLM-powered systems, intelligent agents, automated decision workflows |
-| **AI Agents** | Multi-step agent orchestration using LangChain & LangGraph |
-| **Workflow Automation** | End-to-end pipeline automation with monitoring, alerting & self-healing |
-| **Distributed Processing** | Apache Spark, PySpark, Databricks cluster optimization |
-| **Data Infrastructure** | Scalable architecture, ELT systems, data quality frameworks |
+| **Data Engineering** | End-to-end pipeline design, batch & stream processing, ETL/ELT implementation, data modeling |
+| **AI Engineering** | LLM integration, retrieval-augmented generation (RAG), AI-powered automation systems |
+| **AI Agent Development** | Agentic workflows, tool-use agents, multi-step orchestration with LangChain & LangGraph |
+| **Workflow Orchestration** | Apache Airflow DAGs, pipeline scheduling, monitoring, alerting & failure recovery |
+| **Distributed Systems** | Apache Spark & PySpark jobs, Databricks workspace, large-scale data transformation |
+| **Data Infrastructure** | Warehouse architecture, scalable ELT systems, data quality frameworks, observability |
 
 ---
 
 ## Projects
 
-### Automated ETL Pipeline with AI-Powered Error Detection
+### Automated ETL Pipeline with AI-Powered Error Detection & Monitoring Dashboard
 
-Production-grade ETL pipeline with ML-based anomaly detection that identifies failures, data drift, and schema issues before they reach downstream systems — paired with a real-time monitoring dashboard.
+A production-grade **ETL pipeline** with embedded **ML-based anomaly detection** that proactively identifies data failures, schema drift, and quality issues before they impact downstream consumers. The system includes a **real-time monitoring dashboard** with automated alerting and configurable self-healing capabilities.
 
-**Key capabilities:**
-- Multi-source ingestion with schema validation and drift detection
-- ML model flags anomalies and data quality issues in real time
-- Monitoring dashboard with severity-level alerting
-- Configurable self-healing logic on pipeline failure
-- Built for observability and production deployment
+**Technical Highlights:**
+- Designed a multi-source ingestion layer with automated schema validation and data drift detection
+- Integrated an ML anomaly detection model to classify pipeline errors by type and severity in real time
+- Built a monitoring dashboard surfacing pipeline health, SLA status, and error trends across runs
+- Implemented self-healing logic — automated retries, fallback routing, and stakeholder alerts on failure
+- Architecture prioritizes fault-tolerance, observability, and horizontal scalability
 
-`Python` &nbsp; `PySpark` &nbsp; `Apache Airflow` &nbsp; `SQL` &nbsp; `ML Anomaly Detection`
+**Keywords:** ETL Pipeline, Data Engineering, Apache Airflow, PySpark, Anomaly Detection, Real-Time Monitoring, Data Quality, ML Integration, Pipeline Orchestration, Data Infrastructure
+
+`Python` &nbsp; `PySpark` &nbsp; `Apache Airflow` &nbsp; `SQL` &nbsp; `Machine Learning` &nbsp; `Dashboard`
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrravi07/etl-pipeline-project)
 
 <!--
-  TO ADD A NEW PROJECT LATER:
-  Copy from "### Project Title" down to the closing --- 
-  and paste it below this comment block.
+  TO ADD A NEW PROJECT:
+  Copy from "### Project Title" to the closing ---
+  Paste it below this comment and fill in details.
+  Always include a "Keywords:" line for ATS visibility.
 -->
 
 ---
@@ -131,14 +146,16 @@ Production-grade ETL pipeline with ML-based anomaly detection that identifies fa
 
 </div>
 
-<div align="center">
-<br/>
+<div align="center"><br/>
+
 <img src="https://streak-stats.demolab.com?user=mrravi07&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=444444&dates=888888&background=f6f8fa" alt="GitHub Streak"/>
+
 </div>
 
-<div align="center">
-<br/>
+<div align="center"><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrravi07&theme=minimal&hide_border=true&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=dce8f8" alt="Contribution Graph"/>
+
 </div>
 
 ---
@@ -157,5 +174,5 @@ Production-grade ETL pipeline with ML-based anomaly detection that identifies fa
 ---
 
 <div align="center">
-<sub>Data Engineering · AI Engineering · Intelligent Automation</sub>
+<sub>Data Engineering · AI Engineering · ETL Pipelines · Apache Spark · LangChain · AI Agents · Workflow Automation · Distributed Systems · Data Infrastructure</sub>
 </div>
