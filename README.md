@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&width=700&lines=Data+Engineer;AI+Engineer;AI+Agent+Builder;Scalable+Data+Platforms;Intelligent+Automation+Systems" />
-</p>
-
 <h1 align="center">Ravi Kumar Singh</h1>
 
 <p align="center">
