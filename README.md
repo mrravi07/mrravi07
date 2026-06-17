@@ -69,8 +69,8 @@ Building systems that collect, process, transform, and operationalize data at sc
 💼 LinkedIn  
 www.linkedin.com/in/ravi-kumar-singh-99777a2a6
 
-💻 GitHub  
-github.com/mrravi07
+💻 Portfolio  
+https://mrravi07.vercel.app/
 
 ---
 
