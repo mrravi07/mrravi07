@@ -1,93 +1,77 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Data+Engineer;AI+Engineer;AI+Agent+Builder;Building+Scalable+Data+%26+AI+Systems" />
-</p>
-<h1 align="center">Hi 👋, I'm Ravi Kumar Singh</h1>
+<h1 align="center">Ravi Kumar Singh</h1>
 
-<h3 align="center">
+<p align="center">
 Data Engineer • AI Engineer • AI Agent Builder
-</h3>
+</p>
 
 <p align="center">
-Building Scalable Data Pipelines, AI Applications & Intelligent Automation Systems
+Designing Scalable Data Platforms, Intelligent Automation Systems, and AI-Powered Solutions
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 B.Tech CSE (Data Science)
+I am a Computer Science student with a strong interest in Data Engineering, AI Engineering, and Intelligent Automation.
 
-💡 Passionate about Data Engineering, AI Engineering, and Intelligent Automation
+My work focuses on building reliable data pipelines, modern data platforms, AI-powered applications, and agent-based systems that transform raw data into actionable insights and automated decision-making.
 
-⚡ Focused on building production-ready data pipelines and AI-powered workflows
-
-🌱 Currently mastering Spark, Databricks, Airflow, Data Warehousing, and AI Agents
+I enjoy solving real-world problems through scalable architectures, workflow automation, distributed data processing, and practical AI solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Technologies
 
-| Data Engineering | AI & Automation |
-|-----------------|----------------|
-| Apache Spark | LangChain |
-| PySpark | LangGraph |
-| Databricks | FastAPI |
-| Apache Airflow | AI Agents |
-| ETL Pipelines | Prompt Engineering |
-| Data Warehousing | LLM Applications |
+`Python` • `SQL` • `Java`
 
-| Programming | Analytics |
-|------------|-----------|
-| Python | Power BI |
-| SQL | Pandas |
-| Java | NumPy |
-| JavaScript | Matplotlib |
+`Apache Spark` • `PySpark` • `Databricks` • `Apache Airflow`
+
+`ETL / ELT` • `Data Warehousing` • `Data Modeling`
+
+`LangChain` • `LangGraph` • `FastAPI` • `AI Agents`
+
+`Power BI` • `Pandas` • `NumPy`
+
+`Git` • `GitHub` • `Linux`
 
 ---
 
-## 🎯 Current Focus
+## Areas of Interest
 
-```text
-✓ Data Engineering
-✓ AI Engineering
-✓ AI Agents
-✓ Workflow Automation
-✓ Distributed Data Processing
-✓ Modern Data Platforms
-```
+- Data Engineering
+- AI Engineering
+- AI Agents & Intelligent Automation
+- Distributed Data Processing
+- Modern Data Platforms
+- Workflow Orchestration
+- Data Infrastructure
+- Analytics & Decision Systems
 
 ---
 
-## 🏗️ What I Like Building
+## What I Build
 
-🔹 Data Pipelines
-
-🔹 ETL & ELT Workflows
+🔹 Scalable Data Pipelines
 
 🔹 AI-Powered Applications
 
-🔹 Intelligent Agents
+🔹 Agent-Based Systems
 
-🔹 Automation Systems
+🔹 Workflow Automation Solutions
 
-🔹 Analytics Solutions
+🔹 Data Analytics Platforms
 
----
-
-## 📚 Currently Learning
-
-- Advanced SQL
-- Apache Spark Internals
-- Databricks
-- Apache Airflow
-- Data Warehousing
-- LangChain
-- LangGraph
-- Agentic AI Systems
+🔹 End-to-End Data Products
 
 ---
 
-## 🌐 Connect
+## Professional Focus
+
+Building systems that can collect, process, transform, and utilize data efficiently while integrating AI capabilities to automate workflows and improve decision-making.
+
+---
+
+## Connect
 
 💼 LinkedIn  
 www.linkedin.com/in/ravi-kumar-singh-99777a2a6
@@ -97,12 +81,6 @@ github.com/mrravi07
 
 ---
 
-## ⚡ Vision
-## 📊 GitHub Stats
+## Philosophy
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrravi07&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrravi07&layout=compact)
-Building systems that can collect, process, understand, and act on data at scale.
-
-> Build Data. Build Intelligence. Build Impact.
+"Build reliable systems. Automate intelligently. Scale efficiently."
