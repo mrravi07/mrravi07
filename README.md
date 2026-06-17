@@ -1,93 +1,104 @@
-# Hi, I'm Ravi Kumar Singh 👋
+<h1 align="center">Hi 👋, I'm Ravi Kumar Singh</h1>
+
+<h3 align="center">
+Data Engineer • AI Engineer • Automation Enthusiast
+</h3>
+
+<p align="center">
+Python • SQL • Apache Spark • PySpark • Databricks • Airflow • ETL • Data Warehousing • AI Agents
+</p>
+
+---
 
 ## 🚀 About Me
-🎓 B.Tech CSE (Data Science) Student (2023-2027)
 
-💡 Data Engineer & AI Engineer
+🎓 B.Tech CSE (Data Science) Student
 
-📍 Bihar, India
+💡 Passionate about building scalable data platforms, intelligent automation systems, and AI-powered solutions.
 
-🔥 Passionate about Data Engineering, AI Agents, Machine Learning, and Scalable Data Pipelines
+🔍 Currently focused on Data Engineering, Distributed Data Processing, Data Warehousing, and AI Engineering.
+
+⚡ I enjoy transforming raw data into reliable pipelines, actionable insights, and automated workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming Languages
-- Python
-- SQL
-- Java
-- JavaScript
+### Programming
+`Python` `SQL` `Java` `JavaScript`
 
 ### Data Engineering
-- Apache Spark
-- PySpark
-- Databricks
-- Apache Airflow
-- ETL Pipelines
+`Apache Spark` `PySpark` `Databricks`
+`Apache Airflow` `ETL Pipelines`
+`Data Warehousing`
 
-### Databases
-- MySQL
-- PostgreSQL
+### Analytics
+`Power BI`
+`Pandas`
+`NumPy`
+`Matplotlib`
+`Excel`
 
-### Data Analytics
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
+### Tools & Platforms
+`Git`
+`GitHub`
+`Linux`
+`VS Code`
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-- Advanced SQL
-- Apache Spark
-- PySpark
+- Advanced SQL Optimization
+- Apache Spark Internals
+- PySpark for Large-Scale Data Processing
 - Databricks
 - Apache Airflow
-- Data Warehousing
-- AI Agents & Automation
-
----
-
-## 🚀 Featured Projects
-
-### 📊 ExitPollPro
-Election prediction and analytics platform using Django and Machine Learning.
-
-### 🛒 Real-Time E-Commerce Data Pipeline
-Built scalable ETL pipelines using Python, PySpark, Airflow and Databricks.
-
-### 📈 Education Analytics Dashboard
-Interactive Power BI dashboard for educational insights and reporting.
+- AI Agents & Workflow Automation
+- Distributed Systems
 
 ---
 
 ## 🎯 2026 Goals
 
-- Master Data Engineering
-- Become Job Ready for Data Engineer Roles
-- Build Production-Level Data Pipelines
-- Contribute to Open Source
-- Solve 300+ DSA Problems
-- Build AI Automation Projects
+✔ Master Data Engineering
+
+✔ Master AI Engineering
+
+✔ Build Production-Ready Data Pipelines
+
+✔ Develop AI-Powered Automation Systems
+
+✔ Contribute to Open Source Projects
+
+✔ Secure Data Engineering Opportunities
 
 ---
 
-## 📫 Connect With Me
+## 📊 Areas of Interest
 
-- LinkedIn: 
-- GitHub: https://github.com/mrravi07
+- Data Engineering
+- AI Engineering
+- Big Data Technologies
+- Workflow Automation
+- Data Platforms
+- Cloud & Modern Data Stack
+- Machine Learning Systems
 
 ---
 
-### ⚡ Fun Fact
+## 🌐 Connect With Me
 
-I am building my journey toward becoming an AI-powered Data Engineer who can design scalable data platforms and intelligent automation systems.
+💼 LinkedIn  
+www.linkedin.com/in/ravi-kumar-singh-99777a2a6
+
+💻 GitHub  
+github.com/mrravi07
+
+---
+
+### ⚡ Philosophy
+
+> Build systems that scale.  
+> Automate what repeats.  
+> Learn what lasts.
