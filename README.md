@@ -133,7 +133,6 @@ Building systems that collect, process, transform, and operationalize data at sc
 
 > Engineering data systems today for the intelligent applications of tomorrow.
 
-</td>
 
 ## 📊 GitHub Analytics
 
@@ -143,3 +142,6 @@ Building systems that collect, process, transform, and operationalize data at sc
 
 </tr>
 </table>
+
+</td>
+
