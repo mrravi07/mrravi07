@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&width=700&lines=Data+Engineer;AI+Engineer;AI+Agent+Builder;Scalable+Data+%26+AI+Systems" />
+</p>
+
 <h1 align="center">Ravi Kumar Singh</h1>
 
 <p align="center">
@@ -5,22 +9,22 @@ Data Engineer • AI Engineer • AI Agent Builder
 </p>
 
 <p align="center">
-Designing Scalable Data Platforms, Intelligent Automation Systems, and AI-Powered Solutions
+Building Scalable Data Platforms, Intelligent Automation Systems, and AI-Powered Applications
 </p>
 
 ---
 
-## About Me
+## Profile
 
-I am a Computer Science student with a strong interest in Data Engineering, AI Engineering, and Intelligent Automation.
+Specializing in data engineering, AI systems, and intelligent automation.
 
-My work focuses on building reliable data pipelines, modern data platforms, AI-powered applications, and agent-based systems that transform raw data into actionable insights and automated decision-making.
+Experienced in designing data pipelines, processing large-scale datasets, orchestrating workflows, and developing AI-powered solutions that transform data into business value.
 
-I enjoy solving real-world problems through scalable architectures, workflow automation, distributed data processing, and practical AI solutions.
+Focused on building reliable, scalable, and production-oriented systems across the data and AI ecosystem.
 
 ---
 
-## Core Technologies
+## Technology Stack
 
 `Python` • `SQL` • `Java`
 
@@ -36,38 +40,27 @@ I enjoy solving real-world problems through scalable architectures, workflow aut
 
 ---
 
-## Areas of Interest
+## Expertise
 
-- Data Engineering
-- AI Engineering
-- AI Agents & Intelligent Automation
-- Distributed Data Processing
-- Modern Data Platforms
-- Workflow Orchestration
-- Data Infrastructure
-- Analytics & Decision Systems
+• Data Engineering
 
----
+• AI Engineering
 
-## What I Build
+• AI Agents & Intelligent Automation
 
-🔹 Scalable Data Pipelines
+• Workflow Orchestration
 
-🔹 AI-Powered Applications
+• Distributed Data Processing
 
-🔹 Agent-Based Systems
+• Modern Data Platforms
 
-🔹 Workflow Automation Solutions
-
-🔹 Data Analytics Platforms
-
-🔹 End-to-End Data Products
+• Analytics & Decision Systems
 
 ---
 
-## Professional Focus
+## Engineering Focus
 
-Building systems that can collect, process, transform, and utilize data efficiently while integrating AI capabilities to automate workflows and improve decision-making.
+Building systems that collect, process, transform, and operationalize data at scale while integrating AI capabilities for automation, reasoning, and decision support.
 
 ---
 
@@ -81,6 +74,4 @@ github.com/mrravi07
 
 ---
 
-## Philosophy
-
-"Build reliable systems. Automate intelligently. Scale efficiently."
+> Engineering data systems today for the intelligent applications of tomorrow.
