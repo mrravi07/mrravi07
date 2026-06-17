@@ -5,92 +5,84 @@
 </p>
 
 <p align="center">
-Building Scalable Data Platforms, Intelligent Automation Systems & AI-Powered Applications
+Data Pipelines • AI Agents • Workflow Automation • Distributed Data Systems
 </p>
 
 ---
 
-<table>
-<tr>
-
-<td width="30%" valign="top">
-
 ## 📋 Profile
 
-Specializing in data engineering, AI systems, and intelligent automation.
+Building scalable data platforms, AI-powered applications, and intelligent automation systems.
 
-Experienced in designing data pipelines, processing large-scale datasets, orchestrating workflows, and developing AI-powered solutions that transform data into business value.
+Focused on designing data pipelines, orchestrating workflows, processing large-scale datasets, and developing agent-driven solutions that combine data engineering with modern AI capabilities.
 
-Focused on building reliable, scalable, and production-oriented systems across the data and AI ecosystem.
-
----
-
-## 🛠️ Technology Stack
-
-`Python`
-`SQL`
-`Java`
-
-`Apache Spark`
-`PySpark`
-`Databricks`
-`Apache Airflow`
-
-`ETL / ELT`
-`Data Warehousing`
-`Data Modeling`
-
-`LangChain`
-`LangGraph`
-`FastAPI`
-`AI Agents`
-
-`Power BI`
-`Pandas`
-`NumPy`
-
-`Git`
-`GitHub`
-`Linux`
+Experienced with technologies across the modern data stack, including distributed data processing, workflow orchestration, data warehousing, and agentic AI systems.
 
 ---
 
-## 💡 Expertise
+## ⚡ Technology Stack
+
+`Python` • `SQL` • `Java`
+
+`Apache Spark` • `PySpark` • `Databricks` • `Apache Airflow`
+
+`ETL / ELT` • `Data Warehousing` • `Data Modeling`
+
+`LangChain` • `LangGraph` • `FastAPI` • `AI Agents`
+
+`Power BI` • `Pandas` • `NumPy`
+
+`Git` • `GitHub` • `Linux`
+
+---
+
+## 🎯 Core Expertise
 
 | | |
 |---|---|
-| ✅ Data Engineering | ✅ Distributed Data Processing |
-| ✅ AI Engineering | ✅ Modern Data Platforms |
-| ✅ AI Agents & Intelligent Automation | ✅ Analytics & Decision Systems |
-| ✅ Workflow Orchestration | ✅ Data Infrastructure |
+| Data Engineering | Distributed Data Processing |
+| AI Engineering | Modern Data Platforms |
+| AI Agents | Data Infrastructure |
+| Workflow Automation | Analytics Systems |
 
 ---
 
-## 🎯 Engineering Focus
+## 🚀 Engineering Domains
 
-Building systems that collect, process, transform, and operationalize data at scale while integrating AI capabilities for automation, reasoning, and decision support.
+- Data Pipelines & ETL Systems
+- Workflow Orchestration
+- Data Warehousing
+- Agentic AI Systems
+- Intelligent Automation
+- Analytics Platforms
+- Data Infrastructure
+- Decision Support Systems
 
 ---
 
-## 🤝 Connect
+## 🏗️ Engineering Focus
 
-| LinkedIn | GitHub |
-|----------|---------|
-| Professional Network | Portfolio & Projects |
+Designing systems that ingest, process, transform, and operationalize data while integrating AI agents for automation, reasoning, and workflow execution.
 
 ---
 
-> Engineering data systems today for the intelligent applications of tomorrow.
+## 🌐 Professional Links
 
+💼 LinkedIn  
+www.linkedin.com/in/ravi-kumar-singh-99777a2a6
+
+💻 GitHub  
+github.com/mrravi07
+
+🌍 Portfolio  
+mrravi07.vercel.app
+
+---
+
+> Building reliable data systems and intelligent software for the next generation of automation.
 
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrravi07&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrravi07&layout=compact&hide_border=true)
-
-</tr>
-</table>
-
-</td>
-
