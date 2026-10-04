@@ -185,11 +185,19 @@ A scalable data engineering pipeline focused on distributed processing, transfor
 
 ---
 
-### ExitPollPro
+### Election Exit Poll – General Election 2019
 
 **Python · Django · SQL · HTML · CSS · JavaScript**
 
-A Django-based election exit poll analytics application designed to collect, process, analyze, and visualize polling data.
+A Django-based election exit poll application developed to collect, process, analyze, and visualize exit poll data related to the **General Election 2019**.
+
+**Key Highlights**
+
+- Developed a web-based election exit poll application
+- Implemented structured data collection and processing workflows
+- Analyzed election-related polling data
+- Created database-backed application workflows
+- Integrated data analysis and visualization into a web application
 
 <p>
 <a href="https://github.com/mrravi07/ExitPollPro-Django">
