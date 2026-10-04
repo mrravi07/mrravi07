@@ -2,7 +2,7 @@
 
 <h1>Ravi Kumar Singh</h1>
 
-<p><b>Data Analyst &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; Analytics & Data Pipelines</b></p>
+<p><b>Data Analyst &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; AI & Data Automation</b></p>
 
 <p>Transforming raw data into actionable insights and building scalable, reliable data pipelines.</p>
 
@@ -30,61 +30,45 @@
 
 ## About
 
-Data Analyst and Data Engineer with hands-on experience in
-**data analysis, business intelligence, ETL/ELT pipelines, data
-transformation, data quality, and distributed data processing**.
+Data Analyst and Data Engineer with hands-on experience in designing analytical solutions, building ETL/ELT pipelines, developing business intelligence dashboards, performing statistical analysis, and implementing distributed data processing workflows.
 
-I work with **Python, SQL, Power BI, PostgreSQL, Pandas, NumPy,
-PySpark, Apache Spark, Apache Airflow, Databricks, and Azure** to
-transform raw data into actionable insights and reliable,
-analytics-ready datasets.
+I work with the modern data stack including **Python, SQL, Power BI, PostgreSQL, Pandas, NumPy, PySpark, Apache Spark, Apache Airflow, Databricks, and Azure** to transform raw and complex datasets into actionable insights and reliable, analytics-ready data systems.
 
-My experience spans **exploratory data analysis, statistical
-analysis, KPI analysis, dashboard development, data cleaning,
-feature engineering, ETL pipeline development, data validation,
-workflow orchestration, data warehousing, and business intelligence**.
+My experience spans **exploratory data analysis, statistical analysis, KPI analysis, data visualization, dashboard development, data cleaning, feature engineering, ETL/ELT, data validation, data quality, workflow orchestration, data warehousing, distributed processing, business intelligence, and data pipeline development**.
 
-I have built projects including:
+I have built end-to-end projects involving **A/B testing, user retention and cohort analysis, customer analytics, revenue analytics, scalable e-commerce data pipelines, and AI-powered ETL monitoring systems**.
 
-- A/B Testing & User Retention Analytics
-- Customer 360 & Revenue Analytics
-- Scalable E-Commerce Data Pipelines
-- Automated ETL Pipeline with AI-Powered Anomaly Detection
-- Power BI Business Intelligence Dashboards
+I also explore **AI agents, LLM integration, intelligent automation, anomaly detection, and AI-powered data workflows** to enhance modern data platforms and analytical systems.
 
-I also explore **AI-powered data automation, LLM workflows, and
-intelligent systems** to enhance modern data platforms.
-
-My primary focus is on building systems that are:
-
-**Reliable · Scalable · Analytics-Ready · Observable · Business-Focused**
+I build solutions that are **reliable, observable, scalable, analytics-ready, and focused on delivering meaningful business outcomes from data**.
 
 ---
 
 ## Core Competencies
 
 ```text
-DATA ANALYTICS                  DATA ENGINEERING
-─────────────────────           ─────────────────────────
-Exploratory Data Analysis       ETL / ELT Development
-Statistical Analysis            Data Pipeline Development
-KPI & Business Analysis         Data Transformation
-SQL Analytics                   Data Validation
-Data Visualization              Data Quality
-Power BI                        Workflow Orchestration
-Business Intelligence           Data Warehousing
-Dashboard Development           Data Modeling
-Cohort Analysis                 Distributed Data Processing
-A/B Testing                     Batch Processing
-User Retention Analysis         Cloud Data Platforms
+DATA ANALYTICS                    DATA ENGINEERING
+──────────────────────────        ─────────────────────────────
+Exploratory Data Analysis         Data Pipeline Development
+Statistical Data Analysis         ETL / ELT Design & Implementation
+KPI & Business Analysis           Distributed Data Processing
+SQL Analytics                     Workflow Orchestration
+Data Visualization                Data Warehouse Architecture
+Business Intelligence             Data Modeling & Schema Design
+Power BI Dashboard Development    Data Quality Management
+A/B Testing                       Batch & Stream Processing
+Cohort & Retention Analysis       Apache Spark Optimization
+Customer & Revenue Analytics      Cloud Data Infrastructure
 
 
-BIG DATA & CLOUD                AI & AUTOMATION
-─────────────────────           ─────────────────────────
-Apache Spark                    AI-Powered Data Automation
-PySpark                         Anomaly Detection
-Spark SQL                       LLM Integration
-Databricks                      AI Agents
-Azure                           LangChain
-Cloud Data Infrastructure       LangGraph
-                                 Intelligent Workflows
+DATA QUALITY & MONITORING         AI & AUTOMATION
+──────────────────────────        ─────────────────────────────
+Data Validation                   AI Agent Development
+Schema Validation                 LLM Integration
+Data Drift Detection              Prompt Engineering
+Anomaly Detection                 LangChain
+Pipeline Monitoring               LangGraph
+Real-Time Monitoring              Intelligent Automation
+SLA Monitoring                    Workflow Automation
+Error Detection                   AI-Powered Data Workflows
+Fault Tolerance & Recovery
